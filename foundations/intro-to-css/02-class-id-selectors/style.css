@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-number, .odd-number1, .odd-number2{
+    background-color: rgb(255, 120, 154);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#even-number{
+    color: blue;
+    font-size: 36px;
+}
+.odd-number1{
+    font-size: 24px;
+}
+#another-ID{
+    font-size: 24px;
+    background-color: rgb(120, 255, 143);
+    font-weight: bold;
+}
